@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AIRPORT:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cccce2e3-1243-4621-b017-5cd87e439442" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/ExtraDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/ReservationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/SocieteConventioneDoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/VolDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/ExtraDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/ReservationDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/SocieteComventioneDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/VolDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/RoutingServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/AdminServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/ClientServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/ExtraServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/FlightServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/ReservationServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/RoutServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/StatisticsServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/contactServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/societeConventione/GetAllServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/vols/getAllFlightServlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Escale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Extras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/SocieteConventione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Statistiques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Tarification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/TransportAerien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Vol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/ExtraService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/ExtraServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/ReservationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/SocieteConventioneServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/VolServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/ReservationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/SocieteConventioneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/VolService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/allFlight.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/companiesList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/contactUs.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/flightBooking.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/tickets.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2X7mwWacAHdvUZPDMwDFWziznuO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/elasri/IdeaProjects/AIRPORT/src/main/webapp/WEB-INF/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.15">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdelillahelasri.airport.Main" />
+      <module name="AIRPORT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdelillahelasri.airport.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.15" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.15" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="AIRPORT:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/airport" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="67ff1796-de8f-4a32-981f-88e02cba052c" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="46621" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AIRPORT:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.15" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cccce2e3-1243-4621-b017-5cd87e439442" name="Changes" comment="" />
+      <created>1697988731202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697988731202</updated>
+      <workItem from="1697988732980" duration="5000" />
+      <workItem from="1697988999596" duration="62389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
