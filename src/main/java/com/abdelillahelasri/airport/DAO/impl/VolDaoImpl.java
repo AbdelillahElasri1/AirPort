@@ -1,14 +1,16 @@
 package com.abdelillahelasri.airport.DAO.impl;
 
 import com.abdelillahelasri.airport.DAO.VolDao;
-import com.abdelillahelasri.airport.DAO.VolDao;
-import com.abdelillahelasri.airport.entites.Vol;
 import com.abdelillahelasri.airport.entites.Vol;
 import jakarta.persistence.Query;
 
 import java.util.List;
 
 public class VolDaoImpl implements VolDao {
+    public VolDaoImpl() {
+
+    }
+
     @Override
     public Vol save(Vol vol) {
         try{

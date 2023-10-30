@@ -9,79 +9,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cccce2e3-1243-4621-b017-5cd87e439442" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/AdminDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/ExtraDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/ReservationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/SocieteConventioneDoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/VolDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/ExtraDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/ReservationDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/SocieteComventioneDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/VolDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/RoutingServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/AdminServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/ClientServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/ExtraServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/FlightServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/ReservationServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/RoutServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/StatisticsServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/contactServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/societeConventione/GetAllServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/vols/getAllFlightServlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Escale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Extras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/SocieteConventione.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Statistiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Tarification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/TransportAerien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/entites/Vol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/ExtraService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/AdminServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/ExtraServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/ReservationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/SocieteConventioneServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/VolServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/ReservationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/SocieteConventioneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/VolService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/allFlight.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/companiesList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/contactUs.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/flightBooking.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/tickets.jsp" afterDir="false" />
+    <list default="true" id="cccce2e3-1243-4621-b017-5cd87e439442" name="Changes" comment="airport">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/EmailServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/admin/DashboardServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/vols/saveFlightServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/services/Impl/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/popUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/abdelillahelasri/VolDaoImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/VolDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/DAO/impl/VolDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelillahelasri/airport/Servlets/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/allFlight.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/allFlight.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,10 +38,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Interface" />
-        <option value="Class" />
+        <option value="JavaScript File" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -126,12 +73,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/elasri/IdeaProjects/AIRPORT/src/main/webapp/WEB-INF/lib",
+    "last_opened_file_path": "/home/elasri/marjane-promotion",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -270,8 +223,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697988731202</updated>
       <workItem from="1697988732980" duration="5000" />
-      <workItem from="1697988999596" duration="62389000" />
+      <workItem from="1697988999596" duration="66455000" />
+      <workItem from="1698398284921" duration="11589000" />
+      <workItem from="1698595835715" duration="19456000" />
     </task>
+    <task id="LOCAL-00001" summary="airport">
+      <option name="closed" value="true" />
+      <created>1698393893339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698393893339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,5 +254,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="airport" />
+    <option name="LAST_COMMIT_MESSAGE" value="airport" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
